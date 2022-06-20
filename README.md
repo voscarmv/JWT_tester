@@ -15,5 +15,9 @@ $ npm install
 
 ```
 $ node index.js
+```
+Copy the resulting Auth token and paste it where it belongs in login.js, then
+
+```
 $ node login.js
 ```
