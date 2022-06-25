@@ -7,7 +7,7 @@ fetch("http://localhost:3000/signup", {
   },
   body: JSON.stringify({
     user: {
-      email: "tes@test.com",
+      email: "test2@test.com",
       password: "password",
     },
   }),
